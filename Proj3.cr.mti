@@ -1,0 +1,106 @@
+E:/my_modelsim/my_modelsim/ece254a/Proj3/adder_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/adder_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module adder_tb
+
+Top level modules:
+	adder_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/register.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/register.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/instque_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/instque_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module instque_tb
+
+Top level modules:
+	instque_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/multi_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/multi_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module multi_tb
+
+Top level modules:
+	multi_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/adder.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/adder.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/register_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/register_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module register_tb
+
+Top level modules:
+	register_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/storeunit.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/storeunit.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module storeunit
+
+Top level modules:
+	storeunit
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/loadunit_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/loadunit_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module loadunit_tb
+
+Top level modules:
+	loadunit_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/dispatch_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/dispatch_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module dispatch_tb
+
+Top level modules:
+	dispatch_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/dispatch.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/dispatch.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module dispatch
+
+Top level modules:
+	dispatch
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/top_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/top_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module top_tb
+
+Top level modules:
+	top_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/loadunit.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/loadunit.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module loadunit
+
+Top level modules:
+	loadunit
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/instque.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/instque.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module instque
+
+Top level modules:
+	instque
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/storeunit_tb.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/storeunit_tb.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module storeunit_tb
+
+Top level modules:
+	storeunit_tb
+
+} {} {}} E:/my_modelsim/my_modelsim/ece254a/Proj3/multi.v {1 {vlog -work work -nocovercells E:/my_modelsim/my_modelsim/ece254a/Proj3/multi.v
+Model Technology ModelSim PE Student Edition vlog 10.0c Compiler 2011.07 Jul 22 2011
+-- Compiling module multi
+
+Top level modules:
+	multi
+
+} {} {}}
